@@ -1,5 +1,5 @@
 # Codebot-for-codeforces
-This project aims at creating a bot that parses the problems of a contest helps to work on sample input and output test cases directly to save time.
+This project aims at creating a bot that parses the problems of a contest and helps to work on sample input and output test cases directly to save time.
 
 # Setup/Installation
 ```bash
